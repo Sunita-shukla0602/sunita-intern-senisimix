@@ -1,0 +1,7 @@
+setup.py
+xnor_cuda.cpp
+xnor_kernel.cu
+xnor_cuda.egg-info/PKG-INFO
+xnor_cuda.egg-info/SOURCES.txt
+xnor_cuda.egg-info/dependency_links.txt
+xnor_cuda.egg-info/top_level.txt
